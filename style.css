@@ -1,0 +1,24 @@
+#a{color: white; border: 4px solid grey;}
+p {font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+   color:white
+}
+body{background-color: black;}
+#z{ display: flex;
+    justify-content: center; 
+    align-items: center; }   
+    
+#qq{display: flex;
+    justify-content: center; 
+    align-items: center;  }
+a :link{color: blue}
+a :visited {color: red;}
+a :active { color:purple ;}
+#hms{display: flex;
+    justify-content: center;
+    align-items: center;   }
+#ii{display: flex;
+    justify-content: center;
+    align-items: center;}
+h2 {color: red;}
